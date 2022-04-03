@@ -1,0 +1,10 @@
+{
+    "development": {
+        "DATABASE_URL": "mongodb+srv://test:test@cluster1.ll7jf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "JWT_SECRET": "abc123098!!!"
+    },
+    "test": {
+        "DATABASE_URL": "mongodb+srv://test:test@cluster1.ll7jf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "JWT_SECRET": "abc123098!!!"
+    }
+}
